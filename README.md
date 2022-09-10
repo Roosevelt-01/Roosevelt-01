@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roosevelt-01.
+- 👋 Hi, I’m Roosevelt.
 - 👀 I’m interested in Embedded systems engineering.
 - 🌱 I’m currently learning Computer Engineering.
 - 💞️ I’m looking to collaborate on Projects
