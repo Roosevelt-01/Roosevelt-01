@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roosevelt.
-- 👀 I’m interested in Embedded systems engineering.
-- 🌱 I’m currently learning Computer Engineering.
+- 👀 I’m interested in Computer engineering.
+- 🌱 I’m currently Logic and circuit design.
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Roosevelt.t01@gmail.com
 
